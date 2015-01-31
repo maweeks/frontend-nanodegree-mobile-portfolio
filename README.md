@@ -17,6 +17,9 @@
 
 * Compress pizza.png using http://compresspng.com/
 * Compress pizzeria picture using http://compressjpeg.com/
+* Deleted trailing whitespace (automatically using sublime text)
+* Changed the function changePizzaSizes(size) so that the calculations for the width are done once, then that value is set for each pizza.
+* Changed the function updatePositions() so that document.body.scrollTop is only calculated once, rather than once for each item. That value is then used to calcualte phase.
 
 
 #### The Challenge
