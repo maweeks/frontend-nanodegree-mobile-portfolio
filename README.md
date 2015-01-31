@@ -1,5 +1,9 @@
 ## Website Performance Optimization portfolio project
 
+#### How to view the project:
+
+To view the project either clone this repository and open index.html, or you can view the site live here: http://maweeks.github.io/nano-fewd-04/
+
 #### Changes made to get index.html to reach a page score greater than 90:
 
 * Apply print media to print.css
