@@ -6,15 +6,12 @@ To view the project either clone this repository and open index.html, or you can
 
 #### Changes made to get index.html to reach a page score greater than 90:
 
-* Apply print media to print.css
-* Apply async property to analytics.js
-* Inline the contents of style.css
-* Import font
-* Move js imports to the bottom
-* Data URI for font
-* Compress and change profile picture
-* Compress pizzeria picture
-* Add personal data
+* Apply a print media tag to the print.css import
+* Apply async tag to the analytics.js import
+* Add the contents of style.css inline in the html file
+* Move the js imports to the bottom of the html file
+* Use data URI for font
+* Compress the profile picture
 * Compress pizzeria picture using http://compressjpeg.com/
 
 #### Changes made to optimize the pizza FPS:
