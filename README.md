@@ -1,6 +1,6 @@
 ## Website Performance Optimization portfolio project
 
-#### Changes made to get index.html to reach a page score greater than 90
+#### Changes made to get index.html to reach a page score greater than 90:
 
 * Apply print media to print.css
 * Apply async property to analytics.js
@@ -13,6 +13,13 @@
 * Add personal data
 * Compress pizzeria picture using http://compressjpeg.com/
 
+#### Changes made to optimize the pizza FPS:
+
+* Compress pizza.png using http://compresspng.com/
+* Compress pizzeria picture using http://compressjpeg.com/
+
+
+#### The Challenge
 
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
 
