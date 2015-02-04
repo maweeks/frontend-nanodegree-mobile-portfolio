@@ -21,6 +21,7 @@ To view the project either clone this repository and open index.html, or you can
 * Deleted trailing whitespace (automatically using sublime text)
 * Changed the function changePizzaSizes(size) so that the calculations for the width are done once, then that value is set for each pizza.
 * Changed the function updatePositions() so that document.body.scrollTop is only calculated once, rather than once for each item. That value is then used to calcualte phase.
+* Reduced the number of pizzas that are created from 200 to 40.
 
 
 #### The Challenge
@@ -57,7 +58,7 @@ Profile, optimize, measure... and then lather, rinse, and repeat. Good luck!
 
 ####Part 2: Optimize Frames per Second in pizza.html
 
-To optimize views/pizza.html, you will need to modify views/js/main.js until your frames per second rate is 60 fps or higher. You will find instructive comments in main.js. 
+To optimize views/pizza.html, you will need to modify views/js/main.js until your frames per second rate is 60 fps or higher. You will find instructive comments in main.js.
 
 You might find the FPS Counter/HUD Display useful in Chrome developer tools described here: [Chrome Dev Tools tips-and-tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks).
 
